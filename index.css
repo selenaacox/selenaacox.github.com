@@ -1,0 +1,20 @@
+* {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+
+h1 {
+  color: SeaGreen;
+  background-color: Azure;
+  text-align: center;
+}
+
+
+p, 
+li {
+  font-size: 16px;
+}
+
+
+a {
+  text-decoration: none;
